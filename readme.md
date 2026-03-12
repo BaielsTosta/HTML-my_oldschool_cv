@@ -46,3 +46,5 @@ A construção deste currículo reforçou a ideia de que o **HTML é o alicerce*
 - Entendi a importância do atributo `lang` e das metas de `viewport` para a renderização correta.
 - Pratiquei a lógica de "aninhamento" (tags dentro de tags), fundamental para a construção de interfaces.
 - Percebi como a escolha correta das tags (como usar `<section>` em vez de apenas `<div>`) torna o código muito mais semântico e legível.
+
+## Projeto inspirado em: https://roadmap.sh/projects/single-page-cv
